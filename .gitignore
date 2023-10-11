@@ -26,3 +26,14 @@ doc/api/
 .flutter-plugins
 .flutter-plugins-dependencies
 lib/firebase_options.dart
+/.idea/**
+
+/android/**
+/ios/**
+/linux/**
+/macos/**
+/web/**
+/windows/**
+/test/**
+flutter_login_riverpod_firebase.iml
+.metadata

@@ -16,3 +16,6 @@ If you see anything out of date or know a better approach, please create an issu
 
 
 ![Course Showcase](https://www.hungrimind.com/images/course_showcase.png)
+
+## Fork the Code
+I encourage you to feel free and fork this code, and build your apps on top of it. A link back to either the course or this repo would be highly appreciated 😊.

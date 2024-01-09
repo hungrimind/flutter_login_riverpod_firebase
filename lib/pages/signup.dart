@@ -126,7 +126,7 @@ class _SignUpState extends ConsumerState<SignUp> {
             TextButton(
               onPressed: () {
                 Navigator.of(context).push(
-                    MaterialPageRoute(builder: (context) => const SignUp()));
+                    MaterialPageRoute(builder: (context) => const SignIn()));
               },
               child: const Text(
                 'Already have an account? Sign in here',

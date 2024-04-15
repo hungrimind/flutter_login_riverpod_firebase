@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 
 import '../providers/user_provider.dart';
+import 'signin.dart';
 
 class SignUp extends ConsumerStatefulWidget {
   const SignUp({super.key});
